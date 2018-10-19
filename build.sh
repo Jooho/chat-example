@@ -1,6 +1,6 @@
 
 
-export tag=v2
+export tag=$1
 export old_version
 
 if [[ $tag == v2 ]]
